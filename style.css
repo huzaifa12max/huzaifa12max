@@ -1,0 +1,15 @@
+.button {
+	background: #fff;
+	border-radius: 10px;
+	font-weight: 600;
+	font-family: arial;
+	margin: 40px 3px;
+	border: none !important;
+	cursor: pointer;
+	font-size: 30px;
+	text-decoration: none;
+	text-align: center;
+	box-align: center;
+	box-sizing: border-box;
+	color: red
+}
